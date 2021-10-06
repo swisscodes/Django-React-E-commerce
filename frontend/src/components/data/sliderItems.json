@@ -1,0 +1,23 @@
+ [
+   {
+      "id": 1,
+      "img": "https://i.pinimg.com/564x/db/5f/0b/db5f0bed37e4202379f4f188b8b46677.jpg",
+      "title": "SUMMER SALE",
+      "desc": "DON'T COMPROMISE ON STYLE! GET FLAT 30% OFF FOR NEW ARRIVALS.",
+      "bg": "FFE4C4"
+    },
+    {
+      "id": 2,
+      "img": "https://i.pinimg.com/564x/4e/0f/f2/4e0ff2ae712ede17bf611b72bd368b63.jpg",
+      "title":"AUTUMN COLLECTION",
+      "desc": "DON'T COMPROMISE ON STYLE! GET FLAT 30% OFF FOR NEW ARRIVALS.",
+      "bg": "00FFFF"
+    },
+    {
+      "id": 3,
+      "img": "https://i.pinimg.com/236x/43/2e/57/432e57ce2aa75ca3d4862bc0fb2dae4f.jpg",
+      "title": "LOUNGEWEAR LOVE",
+      "desc": "DON'T COMPROMISE ON STYLE! GET FLAT 30% OFF FOR NEW ARRIVALS.",
+      "bg": "2F4F4F"
+    }
+]

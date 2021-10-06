@@ -1,0 +1,6 @@
+.Products-container {
+    display: flex;
+    flex-flow: wrap;
+    padding: 1.25rem;
+    justify-content: space-between;
+}

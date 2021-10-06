@@ -1,0 +1,91 @@
+.Footer-container {
+    display: flex;
+
+}
+
+/* Left start */
+
+.Footer-left {
+    flex: 1;
+    display: flex;
+    flex-flow: column;
+    padding: 1.25rem;
+}
+
+
+.Footer-left-desc-p {
+    margin: 1.25rem 0rem;
+
+}
+
+.Footer-social-icon {
+    display: flex;
+}
+
+.main-icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 2.5rem;
+    height: 2.5rem;
+    border-radius: 50%;
+    color: white;
+}
+
+.Footer-facebook {
+    color: #3B5999;
+}
+.Footer-instagram {
+    color: #E4405F;
+}
+.Footer-twitter {
+    color: #55ACEE;
+}
+.Footer-pinterest {
+    color: #E60023;
+}
+/* Left End */
+
+
+/* Center start */
+.Footer-center {
+    flex: 1;
+    padding: 1.25rem;
+}
+.Footer-h3 {
+    margin-bottom: 1.875rem;
+}
+
+.Footer-ul {
+    display: flex;
+    flex-flow: wrap;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.Footer-li {
+    width: 50%;
+    margin-bottom: 0.625rem;
+}
+
+/* Center End */
+
+
+/* Right Start */
+.Footer-right {
+    flex: 1;
+    padding: 1.25rem;
+}
+
+.Footer-contact-p {
+    display: flex;
+    align-items: center;
+    margin-bottom: 1.25rem;
+}
+
+.Footer-icon {
+    margin-right: 0.625rem;
+}
+
+/* Right End */
