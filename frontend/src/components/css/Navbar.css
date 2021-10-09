@@ -40,6 +40,19 @@
     text-align: center;
 }
 
+.Navbar-h1-logo-link {
+    text-decoration: none;
+
+}
+
+.Navbar-h1-logo-link:link {
+    color: aqua;
+}
+
+.Navbar-h1-logo-link:visited {
+    color: rgb(31, 82, 82);
+}
+
 /* Right */
 .nav-right {
     flex:1;

@@ -2,6 +2,7 @@ import './css/Navbar.css';
 import React from 'react';
 import { MdSearch, MdShoppingCart } from "react-icons/md";
 import Badge from '@material-ui/core/Badge';
+import {Link} from "react-router-dom";
 
 export default function Navbar() {
     return (
@@ -17,7 +18,7 @@ export default function Navbar() {
             </div>
 
             <div className="nav-center">
-              <h1 className="nav-h1-logo">SwissCodes</h1>
+              <h1 className="nav-h1-logo"><Link className="Navbar-h1-logo-link" to="/">SwissCodes</Link></h1>
             </div>
 
             <div className="nav-right">
